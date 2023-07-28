@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ctostaine
-- 👀 I’m interested in Node.js, React.js, etc.
+- 👀 I’m interested in Node.js, React.js, and Angular
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on.
+- 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me ctostaine16@gmail.com
 
 <!---
